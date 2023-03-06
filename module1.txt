@@ -1,0 +1,116 @@
+1.] what is software?what is software engineering. 
+	
+     software is a set of instruction,data or programs.
+     there are different types of software that can run on computer. 
+         1. system software,
+         2. utility software,
+         3. application software
+   
+   software engineering is detailed study of engineering to the design, devlopment and maintenance of software.
+   software engineering was introduced to address the issues of lwo-quality software projects.
+   problems arise when a software generally exceeds timelines, budgets, and reduced levels of quality.
+
+2.] Explain types of software ?
+
+
+    three type of software.
+    1. system software.
+    2. application software.
+    3. utility software.
+
+1.system software :
+               system software is software that directly operate the computer hardware and provide the basic functionality to the users as well as to the other software to operate smoothly.
+or in other words, system software basically controls a computer's internal functioning and also controls hardware devices such as monitors, printers, and storage devices, etc.
+
+
+2.appication software : 
+               appication software is a computer performs a specific funcation, be it educational, personal, or business.
+the term "application software" refers to software that performs functions for a user.
+               types of application software :-
+               1. general purpose  software.
+               2. customized software.
+               3. utility software.
+
+
+3. utility software :
+               utility software is software designed to help analyze, configure, optimize or maintain a computer.
+it is used to support the computer infrastructure-in contrast to application software, which is aimed at perfoming tasks that benefit orfinary users.
+
+
+3.] What is SDLC ? Explain each phase of SDLC.
+
+           SDLC full form :
+                                   software devlopment life cycle
+
+           the software devlopment life cycle (SDLC) is a structuread process that enables the production of high-quality, low-cost software, in the shortest possible production time.
+    
+           fllowing are the phases in SDLC.
+           1. software requirement.
+           2. software analysis.
+           3. software designing.
+           4. software development.
+           5. software testing. (quality assurance tester)
+           6. software deployment.
+           7. software maintenance.
+
+
+4.]what DFD ? create a DFD diagram on flipkart.
+
+                    DFD full form :
+                                           dangerous goods shipper's declaration
+                    the air industry recognized the need for a digital and paperless process to manage the IATA dangerous goods shipper's declaration (DGD) among various stakeholders in the air cargo supply chain.
+                                           
+                                                  (open flipkart)
+                                                            |
+                                               (manage category)
+                                                            |
+                                                  (buy product)
+                                                            |
+                                                 (mak payment)
+                                                            |
+                                               (order delivering)
+                                                            |
+                                                  (use product)
+
+
+5.] what is flow chart ? create a flowchart to make addition of two numbbers.
+
+                    a flowchart is a type of diagram that represents a workflow or process.
+a flowchart can also be defined as a diagrammatic representation of an algorithm, a step-by-step approach to solving a task.
+the flowchart shows the steps as boxes with arrows. 
+                                                        
+                                                                 (start)
+                                                                     |
+                                                 (tnput number 1, number 2)
+                                                                     |
+                                                  (sum= number1+number2)
+                                                                     |
+                                                            (print sum)
+                                                                     |
+                                                                 (end)
+
+
+6.] what is use case diagram ? create a use-case on bill payment on paytm.
+
+                        a use case diagarm is a graphical depiction a user's posible interactions with a system.
+a use a case diagram shows various use cases and different types users the system has and will often be accompanied by other types of diagarams as well
+the use cases are represented by either circles or ellipses.
+    
+                                                                (customer)
+                                                                       |
+                                                                 (long in)
+                                                                       |
+                                                             (buy product)
+                                                                       |
+                                                            (make payment)
+                                                                       |
+                                                             (trunsfer fund)
+                                                                       |
+                                                              (reieiver'bank)
+
+
+
+
+
+
+
